@@ -1,16 +1,19 @@
-## Hi there 👋
+💻 System booting... Willkommen auf meinem GitHub! 
+---
+👨‍💻 Tim Wolter
+---
+🧠 Interessen:
+💻 Informatik | 🎮 Gaming | ₿ Kryptowährungen | ♛ Schach | 
+---
+🔄 Aktuell:
+- 📖 Mache mein Abitur
+- 🎓 Plane ein Informatikstudium
+- 🐍 Lerne Python & Softwareentwicklung
+---
+📊 GitHub-Statistiken kommen bald! 
+---
+🌍 Social Media: 
+🔗 [**LinkedIn-Profil ansehen**](https://www.linkedin.com/in/tim-wolter-203531356)
+📩 [**E-Mail senden**](mailto:timwolter.business@gmail.com) 
 
-<!--
-**timwolter-dev/timwolter-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
