@@ -3,7 +3,7 @@
 👨‍💻 Tim Wolter
 ---
 🧠 Interessen:
-💻 Informatik | 🎮 Gaming | ₿ Kryptowährungen | ♛ Schach | 
+| 💻 Informatik | 🎮 Gaming | ₿ Kryptowährungen | ♛ Schach | 
 ---
 🔄 Aktuell:
 - 📖 Mache mein Abitur
@@ -13,7 +13,7 @@
 📊 GitHub-Statistiken kommen bald! 
 ---
 🌍 Social Media: 
-🔗 [**LinkedIn-Profil ansehen**](https://www.linkedin.com/in/tim-wolter-203531356)
+🔗 [**LinkedIn-Profil ansehen**](https://www.linkedin.com/in/timwolter-dev)
 📩 [**E-Mail senden**](mailto:timwolter.business@gmail.com) 
 
 
